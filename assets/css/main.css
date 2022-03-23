@@ -2611,7 +2611,7 @@ input, select, textarea {
 		}
 
 			ul.icons.major li .icon:before {
-				font-size: 1rem;
+				font-size: 2rem;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -2621,7 +2621,7 @@ input, select, textarea {
 			}
 
 				ul.icons.major li .icon:before {
-					font-size: 1rem;
+					font-size: 2rem;
 				}
 
 		}
@@ -3266,7 +3266,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style2 .icon {
-				color: #8f8e8e;
+				color: #464646;
 			}
 
 			.wrapper.style2 .image {
