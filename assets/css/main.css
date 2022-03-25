@@ -3350,6 +3350,9 @@ input, select, textarea {
 			.wrapper.style2 hr {
 				border-bottom-color: #e6e6e6;
 			}
+			.wrapper.style2 p{
+				font-size: .5rem;	
+			}
 
 		.wrapper.style3 {
 			background-color: #d0d0d8;
